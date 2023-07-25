@@ -15,6 +15,12 @@ Submissions will be assessed for the size, complexity, and diversity of the resu
 ![](assets/images/chess-screenshot.png)
 *A screenshot of the chat interface used for data collection in Gaelic (Howcroft and Gkatzia, 2023). The chat area is on
 the left, and the summary of the instructions for the RESPONDER and the beginning of an entry to be discussed on the right*
+
+**Authors:**
+Khyathi Raghavi Chandu^1^, David Howcroft^2^, Dimitra Gkatzia^2^,
+Yi-Ling Chung^3^, Yufang Hou^4^, Chris Emezue^5^, Pawan Rajpoot^6^, Tosin Adewumi^7^
+
+
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
