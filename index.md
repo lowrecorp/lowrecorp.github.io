@@ -2,6 +2,19 @@
 layout: default
 ---
 
+# Abstract
+Most languages in the world do not have sufficient data available to develop neural-network-based natural language generation (NLG) systems.
+To alleviate this resource scarcity, we propose a novel challenge for the NLG community: low-resource language corpus development (\lowre). 
+We present an innovative framework to collect a single dataset with dual tasks to maximize the efficiency of data collection efforts and respect language consultant time. 
+Specifically, we focus on a text-chat-based interface for two generation tasks -- conversational response generation and dialog 
+summarization grounded in a source document and/or image. 
+The goal of this shared task is to collectively develop grounded datasets for local and low-resourced languages.
+To enable data collection, we make available web-based software that can be used to collect these grounded conversations and summaries.
+Submissions will be assessed for the size, complexity, and diversity of the resulting corpora to ensure quality control of the datasets as well as any enhancements to the interface or novel approaches to grounding conversations.
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+<!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
@@ -117,6 +130,7 @@ end
 ```
 Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
 ```
+-->
 
 ```
 The final element.
