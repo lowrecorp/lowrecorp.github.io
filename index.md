@@ -13,7 +13,8 @@ To enable data collection, we make available web-based software that can be used
 Submissions will be assessed for the size, complexity, and diversity of the resulting corpora to ensure quality control of the datasets as well as any enhancements to the interface or novel approaches to grounding conversations.
 
 ![](assets/images/chess-screenshot.png)
-
+*A screenshot of the chat interface used for data collection in Gaelic (Howcroft and Gkatzia, 2023). The chat area is on
+the left, and the summary of the instructions for the RESPONDER and the beginning of an entry to be discussed on the right*
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
