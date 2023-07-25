@@ -12,7 +12,7 @@ The goal of this shared task is to collectively develop grounded datasets for lo
 To enable data collection, we make available web-based software that can be used to collect these grounded conversations and summaries.
 Submissions will be assessed for the size, complexity, and diversity of the resulting corpora to ensure quality control of the datasets as well as any enhancements to the interface or novel approaches to grounding conversations.
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![](assets/images/chess-screenshot.png)
 
 <!--
 Text can be **bold**, _italic_, or ~~strikethrough~~.
